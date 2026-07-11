@@ -1,0 +1,6 @@
+{
+  "name": "CLA - INTANGO TSS MULTIPURPOSE HALL",
+  "description": "The phase 2 of CLA - Intango TSS, desired to develop a Multipurpose hall building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
